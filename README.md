@@ -1,8 +1,9 @@
 # Deep Learning Architect / Engineer
 
 ## Education
-- Bachelors in Electronics Engineering
-- Masters in Computer Science - Machine Learning and Computational Photography and Robotics
+- Masters in Computer Science - Machine Learning and Computational Photography and Robotics | Georgia Institute of Technology
+- Bachelors in Electronics Engineering | Simon Fraser University
+
 
 ## Work Experience
 **Deep Learning Architect / Engineer @ General Motors (Mar 2017 - Present)**
