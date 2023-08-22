@@ -1,3 +1,13 @@
-# hanbrianlee.github.io
+# Deep Learning Architect / Engineer
 
-Trying README instead
+### Education
+Bachelors in Electronics Engineering
+Masters in Computer Science - Machine Learning and Computational Photography and Robotics
+
+### Work Experience
+Deep Learning Architect / Engineer @ General Motors
+- Ultracruise
+- Cruise
+
+### Projects
+Worldmodels
