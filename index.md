@@ -7,10 +7,9 @@ hero_height: is-medium
 hero_image: /img/irobotimage.jpg
 ---
 
-## Brief Introduction
+## Introduction
 
-![image](/img/profilepicsmall.jpeg#profilepicsmall){: style="float: left; width:200px"}
-
+![image](/img/profilepicsmall.jpeg#profilepicsmall){: style="width:200px"}
 
 
 Hi!
