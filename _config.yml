@@ -1,4 +1,6 @@
 title: Brian (HAN UL) Lee
 logo: /assets/img/profilepicsmall.jpeg
 # show_downloads: true
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+
+remote_theme: chrisrhymes/bulma-clean-theme
