@@ -9,7 +9,9 @@ hero_image: /img/irobotimage.jpg
 
 ## Brief Introduction
 
-![image](/img/profilepicsmall.jpeg){: style="float: left; width=100"}
+![image](/img/profilepicsmall.jpeg#profilepicsmall){: style="float: left; width=50px"}
+
+
 
 Hi!
 
