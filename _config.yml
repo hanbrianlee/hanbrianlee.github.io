@@ -1,15 +1,15 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Brian (HAN UL) Lee
+tagline: Brian (HAN UL) Lee
+email: hanbrianlee@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites  
+  Portfolio page for Brian Lee
 baseurl: "/"
-url: "https://www.csrhymes.com"
+url: "https://hanbrianlee.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+# gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
