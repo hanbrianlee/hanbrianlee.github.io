@@ -20,4 +20,6 @@ If you'd like to find out more about me, click on [About me/Docs](/docs/) on top
 
 If you're interested about some of the Projects (that I can share about in public) that I worked on, please use the Projects dropdown menu at the top navigation menu!
 
+On the right are my blog posts which are just fillers for now but will be updated with my journals on different papers or conferences I attended.
+
 
