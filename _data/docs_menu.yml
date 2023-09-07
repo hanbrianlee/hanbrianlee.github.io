@@ -3,11 +3,11 @@
     - name: Experiences
       link: /docs/getting-started/experiences/
       items:
-        - General Motors
-        - LG Engineering
-        - SPEC
-        - Rapid Electric Vehicles        
-        - KAIST
+        - name: General Motors
+        - name: LG Engineering
+        - name: SPEC
+        - name: Rapid Electric Vehicles        
+        - name: KAIST
 
 - label: Education
   items:
