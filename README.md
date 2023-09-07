@@ -2,7 +2,13 @@
 
 ## Education
 - Masters in Computer Science - Machine Learning and Computational Photography and Robotics | Georgia Institute of Technology
-- Bachelors in Electronics Engineering | Simon Fraser University
+- Bachelors in Applied Sciences | Simon Fraser University
+
+
+
+
+
+
 
 
 ## Work Experience
