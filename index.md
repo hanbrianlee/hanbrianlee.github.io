@@ -1,9 +1,10 @@
 ---
-title: Brian (HAN UL) Lee
-subtitle: Deep Learning Engineer
+title: Deep Learning Engineer
+subtitle: "When you want something, all the universe conspires in helping you to achieve it" - The Alchemist
 layout: page
 show_sidebar: true
-hero_height: is-small
+hero_height: is-medium
+hero_image: /img/irobotimage.jpg
 ---
 
 ## Brief Introduction
@@ -11,9 +12,6 @@ hero_height: is-small
 Hi!
 
 I'm Brian Lee. I'm a Korean/Canadian aspiring to be the deep learning guru in self driving technologies and humanoids. 
-
-My favourte quote is from "The Alchemist": 
-If you really wish for something, the universe will conspire to help make me achieve it"
 
 If you'd like to find out more about me, click on [About me/Docs](/docs/) on top where you can find about my experiences, career path, and other hobbies that I enjoy!
 
