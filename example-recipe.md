@@ -40,6 +40,9 @@ calories: 500 calories
 
 Photo by <a href="https://stocksnap.io/author/36317">Janko Ferlic</a> from <a href="https://stocksnap.io">StockSnap</a>
 
+[link to something](/docs/getting-started/installation/)
+
+
 ## Recipe Page Instructions
 
 This is an example recipe page, generated from page's front matter. You can make a single page using this layout, or you can use it in your blog by specifying the layout as recipe instead of post. 
