@@ -1,14 +1,8 @@
-- label: Professional
+- label: Click to find out!
   items:
     - name: Experiences
       link: /docs/getting-started/experiences/
-
-- label: Education
-  items:
     - name: Education
       link: /docs/pages/education/
-
-- label: Personal
-  items:
     - name: A little bit about me
       link: /docs/personal/aboutme/
