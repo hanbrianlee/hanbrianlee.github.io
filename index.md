@@ -9,7 +9,7 @@ hero_image: /img/irobotimage.jpg
 
 ## Brief Introduction
 
-![image](/img/profilepicmall.jpeg){: style="float: left"}
+![image](/img/profilepicsmall.jpeg){: style="float: left"}
 
 Some text.
 
