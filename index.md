@@ -1,6 +1,6 @@
 ---
 title: Deep Learning Engineer
-subtitle: "When you want something, all the universe conspires in helping you to achieve it" - The Alchemist
+subtitle: When you want something, all the universe conspires in helping you to achieve it - The Alchemist
 layout: page
 show_sidebar: true
 hero_height: is-medium
