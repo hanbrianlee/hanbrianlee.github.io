@@ -3,6 +3,7 @@ title: Brian (HAN UL) Lee
 subtitle: Deep Learning Engineer
 layout: page
 show_sidebar: true
+hero_height: is-small
 ---
 
 ## Brief Introduction
