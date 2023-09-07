@@ -7,6 +7,13 @@ items:
   - title: Blog included
     subtitle: Layouts for blog and post pages included
     icon: fa-mail-bulk
+    call_to_action_name: this mine
+    call_to_action_link: http://www.google.com
+  - title: what about this
+    subtitle: Layouts for blog and post pages included
+    icon: fa-mail-bulk
+    call_to_action_name: this mine
+    call_to_action_link: http://www.google.com
   - title: Example callout 3
     subtitle: Example subtitle 3
     icon: fa-github
