@@ -2,55 +2,20 @@
 title: Brian (HAN UL) Lee
 subtitle: Deep Learning Engineer
 layout: page
-show_sidebar: false
+show_sidebar: true
 ---
 
-[Link to About me](https://hanbrianlee.github.io/docs/)
+## Brief Introduction
+
+Hi!
+
+I'm Brian Lee. I'm a Korean/Canadian aspiring to be the deep learning guru in self driving technologies and humanoids. 
+
+My favourte quote is from "The Alchemist": 
+If you really wish for something, the universe will conspire to help make me achieve it"
+
+If you'd like to find out more about me, click on About me/Docs ([Documentation](/docs/)) on top where you can find about my experiences, career path, and other hobbies that I enjoy!
+
+If you're interested about some of the projects (that I can share about in public) that I worked on, please use the Projects dropdown menu at the top navigation menu!
 
 
-# Bulma Clean Theme demo website
-
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
-
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
-
-## Ruby Gem
-
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
-
-## GitHub Pages
-
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Documentation
-
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
-
-## Page Layouts
-
-This demo site showcases the available page layout options. 
-
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
