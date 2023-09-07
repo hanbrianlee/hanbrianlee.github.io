@@ -1,8 +1,7 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Brian (HAN UL) Lee
+subtitle: Deep Learning Engineer
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 
