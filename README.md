@@ -5,7 +5,7 @@
 - Bachelors in Applied Sciences | Simon Fraser University
 
 
-
+[<img src="http://www.google.com.au/images/nav_logo7.png">]([[http://google.com/](https://docs.google.com/presentation/d/10332Gfl_s9PT04PcgzjH3ap9CkuK4uY8/edit?usp=sharing&ouid=111676475007302334023&rtpof=true&sd=true)](https://docs.google.com/presentation/d/10332Gfl_s9PT04PcgzjH3ap9CkuK4uY8/edit?usp=sharing&ouid=111676475007302334023&rtpof=true&sd=true))
 
 
 
