@@ -3,6 +3,7 @@ items:
   - title: Multiple page layouts
     subtitle: Including sidebar, menubar, tabs and callouts
     icon: fa-copy
+    link: http://www.google.com
   - title: Blog included
     subtitle: Layouts for blog and post pages included
     icon: fa-mail-bulk
