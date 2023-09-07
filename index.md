@@ -9,6 +9,10 @@ hero_image: /img/irobotimage.jpg
 
 ## Brief Introduction
 
+![image](/img/profilepic1.png){: style="float: left"}
+
+Some text.
+
 Hi!
 
 I'm Brian Lee. I'm a Korean/Canadian aspiring to be the deep learning guru in self driving technologies and humanoids. 
