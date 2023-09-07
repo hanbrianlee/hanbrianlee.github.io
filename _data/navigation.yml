@@ -1,8 +1,5 @@
-- name: About me
+- name: About me/Docs
   link: /docs/
-  dropdown:
-    - name: Getting Started
-      link: /getting_started/
 - name: Projects
   link: /#
   dropdown:
