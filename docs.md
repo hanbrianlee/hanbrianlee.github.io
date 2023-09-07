@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docs
+title: About me
 menubar: docs_menu
 show_sidebar: false
 ---
