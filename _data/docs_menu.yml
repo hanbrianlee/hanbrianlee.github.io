@@ -1,8 +1,8 @@
 - label: Click to find out!
   items:
     - name: Experiences
-      link: /docs/getting-started/experiences/
+      link: /docs/professional/career/
     - name: Education
-      link: /docs/pages/education/
+      link: /docs/personal/education/
     - name: A little bit about me
       link: /docs/personal/aboutme/
