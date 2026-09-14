@@ -41,7 +41,7 @@ export const experiences: ExperienceItem[] = [
     company: "General Motors",
     team: "Ultra Cruise / Autonomous Driving Division",
     period: "Past",
-    location: "Markham, ON / Detroit, MI",
+    location: "Warren, MI",
     focus: "Autonomous Driving Perception, Neural Mapping & Localization",
     bulletPoints: [
       "Engineered deep learning architectures for real-time perception, 3D object detection, and road topology understanding for GM's Ultra Cruise hands-free driving system.",
