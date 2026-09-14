@@ -1,13 +1,13 @@
 import React from 'react';
 import { personalInfo } from '../data/portfolioContent';
-import { Github, Linkedin, Mail } from 'lucide-react';
+import { Github, Linkedin, Mail, GraduationCap } from 'lucide-react';
 
 export const Navbar: React.FC = () => {
   return (
     <header className="sticky top-0 z-40 w-full border-b border-zinc-200 bg-white/90 backdrop-blur-md dark:border-zinc-800 dark:bg-zinc-950/90 transition-colors">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <a href="#hero" className="flex items-center gap-2 group">
-          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 font-semibold text-sm transition-transform group-hover:scale-105">
+        <a href="#hero" className="flex items-center gap-2.5 group">
+          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-zinc-900 text-white dark:bg-zinc-100 dark:text-zinc-900 font-bold text-sm transition-transform group-hover:scale-105">
             BL
           </div>
           <div>
@@ -15,7 +15,7 @@ export const Navbar: React.FC = () => {
               Brian (HAN UL) Lee
             </span>
             <span className="text-xs text-zinc-500 dark:text-zinc-400 block font-normal">
-              Deep Learning Engineer
+              Waymo • ex-GM • ex-LG
             </span>
           </div>
         </a>
@@ -27,8 +27,11 @@ export const Navbar: React.FC = () => {
           <a href="#experience" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
             Experience
           </a>
+          <a href="#credentials" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
+            Education & Patents
+          </a>
           <a href="#projects" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
-            Research & Projects
+            Research & Reports
           </a>
           <a href="#skills" className="hover:text-zinc-900 dark:hover:text-white transition-colors">
             Skills

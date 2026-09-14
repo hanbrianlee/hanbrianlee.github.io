@@ -25,6 +25,23 @@ export interface ExperienceItem {
   technologies: string[];
 }
 
+export interface EducationItem {
+  id: string;
+  institution: string;
+  degree: string;
+  field: string;
+  period: string;
+  location?: string;
+  details?: string;
+}
+
+export interface PublicationItem {
+  id: string;
+  title: string;
+  type: 'patent' | 'paper';
+  description: string;
+}
+
 export interface SkillCategory {
   title: string;
   skills: { name: string; level?: string }[];

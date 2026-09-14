@@ -8,6 +8,7 @@ import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { AboutSection } from './components/AboutSection';
 import { ExperienceSection } from './components/ExperienceSection';
+import { EducationAndCredentialsSection } from './components/EducationAndCredentialsSection';
 import { ProjectsSection } from './components/ProjectsSection';
 import { SkillsSection } from './components/SkillsSection';
 import { Footer } from './components/Footer';
@@ -25,6 +26,7 @@ export default function App() {
         <Hero />
         <AboutSection />
         <ExperienceSection />
+        <EducationAndCredentialsSection />
         <ProjectsSection onSelectProject={(project) => setSelectedProject(project)} />
         <SkillsSection />
       </main>
