@@ -1,12 +1,8 @@
 import React from 'react';
 import { personalInfo } from '../data/portfolioContent';
-import { ArrowDown, FileText, Github, Linkedin, Mail, ExternalLink, Sparkles, ShieldCheck } from 'lucide-react';
+import { FileText, Briefcase, MapPin, Mail, Github, Linkedin } from 'lucide-react';
 
-interface HeroProps {
-  onOpenLegacyModal: () => void;
-}
-
-export const Hero: React.FC<HeroProps> = ({ onOpenLegacyModal }) => {
+export const Hero: React.FC = () => {
   return (
     <section id="hero" className="relative overflow-hidden border-b border-zinc-200 bg-zinc-50/50 py-16 sm:py-24 dark:border-zinc-800 dark:bg-zinc-900/30">
       {/* Background visual elements */}
@@ -25,7 +21,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenLegacyModal }) => {
             </div>
 
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-zinc-900 dark:text-white leading-[1.15]">
-              Advancing Deep Learning for Autonomous Driving & Humanoid Robotics
+              Advancing Deep Learning for Autonomous Driving & Robotics
             </h1>
 
             <p className="text-base sm:text-lg text-zinc-600 dark:text-zinc-300 leading-relaxed max-w-2xl font-normal">
@@ -49,16 +45,9 @@ export const Hero: React.FC<HeroProps> = ({ onOpenLegacyModal }) => {
                 href="#experience"
                 className="inline-flex items-center gap-2 rounded-lg border border-zinc-300 bg-white px-4 py-2.5 text-sm font-medium text-zinc-700 hover:bg-zinc-50 dark:border-zinc-700 dark:bg-zinc-800 dark:text-zinc-200 dark:hover:bg-zinc-700/80 transition-colors"
               >
+                <Briefcase className="h-4 w-4" />
                 Industry Experience
               </a>
-
-              <button
-                onClick={onOpenLegacyModal}
-                className="inline-flex items-center gap-2 rounded-lg border border-amber-300 bg-amber-50/70 px-4 py-2.5 text-sm font-medium text-amber-900 hover:bg-amber-100 dark:border-amber-700/60 dark:bg-amber-950/40 dark:text-amber-200 dark:hover:bg-amber-900/60 transition-colors"
-              >
-                <ShieldCheck className="h-4 w-4 text-amber-600 dark:text-amber-400" />
-                Jekyll Backup & Site Analysis
-              </button>
             </div>
           </div>
 
@@ -72,7 +61,6 @@ export const Hero: React.FC<HeroProps> = ({ onOpenLegacyModal }) => {
                   className="h-full w-full object-cover object-center"
                   referrerPolicy="no-referrer"
                   onError={(e) => {
-                    // Fallback to stylized initials if remote image fails
                     const target = e.currentTarget;
                     target.style.display = 'none';
                     if (target.parentElement) {
@@ -96,17 +84,17 @@ export const Hero: React.FC<HeroProps> = ({ onOpenLegacyModal }) => {
                   </span>
                 </div>
                 <p className="text-xs text-zinc-600 dark:text-zinc-400">
-                  {personalInfo.headline} • General Motors UltraCruise
+                  {personalInfo.headline} • General Motors Ultra Cruise
                 </p>
 
                 <div className="pt-3 border-t border-zinc-100 dark:border-zinc-800 flex items-center justify-between text-xs text-zinc-500 dark:text-zinc-400">
                   <span>Location</span>
-                  <span className="font-medium text-zinc-700 dark:text-zinc-300">Korean / Canadian</span>
+                  <span className="font-medium text-zinc-700 dark:text-zinc-300">{personalInfo.location}</span>
                 </div>
 
                 <div className="flex items-center justify-between text-xs text-zinc-500 dark:text-zinc-400">
                   <span>Current Focus</span>
-                  <span className="font-medium text-zinc-700 dark:text-zinc-300">Autonomous Perception</span>
+                  <span className="font-medium text-zinc-700 dark:text-zinc-300">Perception & Mapping</span>
                 </div>
               </div>
             </div>

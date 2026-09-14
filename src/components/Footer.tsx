@@ -2,11 +2,7 @@ import React from 'react';
 import { personalInfo } from '../data/portfolioContent';
 import { Github, Linkedin, Mail, ArrowUp } from 'lucide-react';
 
-interface FooterProps {
-  onOpenLegacyModal: () => void;
-}
-
-export const Footer: React.FC<FooterProps> = ({ onOpenLegacyModal }) => {
+export const Footer: React.FC = () => {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
@@ -55,24 +51,16 @@ export const Footer: React.FC<FooterProps> = ({ onOpenLegacyModal }) => {
 
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-zinc-500 dark:text-zinc-400">
           <p>
-            © {new Date().getFullYear()} {personalInfo.name}. All rights reserved.
+            © {new Date().getFullYear()} {personalInfo.name}. Built with modern React & Tailwind CSS.
           </p>
 
-          <div className="flex items-center gap-4">
-            <button
-              onClick={onOpenLegacyModal}
-              className="hover:text-zinc-900 dark:hover:text-white transition-colors underline underline-offset-4"
-            >
-              Legacy Site Archive
-            </button>
-            <button
-              onClick={scrollToTop}
-              className="inline-flex items-center gap-1 hover:text-zinc-900 dark:hover:text-white transition-colors"
-            >
-              <ArrowUp className="h-3.5 w-3.5" />
-              Back to Top
-            </button>
-          </div>
+          <button
+            onClick={scrollToTop}
+            className="inline-flex items-center gap-1 hover:text-zinc-900 dark:hover:text-white transition-colors"
+          >
+            <ArrowUp className="h-3.5 w-3.5" />
+            Back to Top
+          </button>
         </div>
       </div>
     </footer>

@@ -5,16 +5,16 @@ export const personalInfo = {
   headline: "Senior Deep Learning Engineer",
   tagline: "Building the next generation of autonomous driving, computer vision, and humanoid robotics.",
   quote: "“When you want something, all the universe conspires in helping you to achieve it.” — The Alchemist",
-  location: "North America (Korean / Canadian)",
+  location: "Detroit, MI / Toronto, ON (Korean / Canadian)",
   email: "hanbrianlee@gmail.com",
   github: "https://github.com/hanbrianlee",
-  linkedin: "https://www.linkedin.com/in/hanbrianlee/",
+  linkedin: "https://www.linkedin.com/in/brianhanullee/",
   legacySiteUrl: "https://hanbrianlee.github.io",
   avatarUrl: "https://hanbrianlee.github.io/img/profilepicsmall.jpeg",
   heroBackground: "https://hanbrianlee.github.io/img/irobotimage.jpg",
   bioParagraphs: [
-    "Hi! I'm Brian Lee. I'm a Korean/Canadian Deep Learning Engineer dedicated to advancing self-driving technologies, autonomous robotics, and embodied AI.",
-    "My focus spans end-to-end perception, neural mapping, real-time localization, and multi-sensor fusion for safety-critical autonomous systems. I have worked on production-grade Level 2+ and Level 3 driver-assist platforms as well as high-speed autonomous racing systems."
+    "Hi! I'm Brian Lee. I'm a Deep Learning & Autonomous Driving Engineer dedicated to advancing self-driving technologies, computer vision, and embodied robotics.",
+    "My expertise spans end-to-end perception, neural mapping, real-time localization, and multi-sensor fusion for safety-critical autonomous systems. I have engineered production deep learning models for General Motors Ultra Cruise as well as high-speed autonomous racing systems."
   ]
 };
 
