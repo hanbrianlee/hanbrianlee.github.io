@@ -84,7 +84,7 @@ export const Hero: React.FC = () => {
                   </span>
                 </div>
                 <p className="text-xs text-zinc-600 dark:text-zinc-400">
-                  {personalInfo.headline} • General Motors Ultra Cruise
+                  {personalInfo.headline} • Waymo • General Motors
                 </p>
 
                 <div className="pt-3 border-t border-zinc-100 dark:border-zinc-800 flex items-center justify-between text-xs text-zinc-500 dark:text-zinc-400">

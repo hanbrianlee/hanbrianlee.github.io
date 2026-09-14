@@ -3,9 +3,9 @@ import { ProjectItem, ExperienceItem, SkillCategory } from '../types';
 export const personalInfo = {
   name: "Brian (HAN UL) Lee",
   headline: "Senior Deep Learning Engineer",
-  tagline: "Building the next generation of autonomous driving, computer vision, and humanoid robotics.",
+  tagline: "Building the next generation of autonomous driving, computer vision, and foundation models.",
   quote: "“When you want something, all the universe conspires in helping you to achieve it.” — The Alchemist",
-  location: "Detroit, MI / Toronto, ON (Korean / Canadian)",
+  location: "Mountain View, California",
   email: "hanbrianlee@gmail.com",
   github: "https://github.com/hanbrianlee",
   linkedin: "https://www.linkedin.com/in/brianhanullee/",
@@ -13,18 +13,34 @@ export const personalInfo = {
   avatarUrl: "https://hanbrianlee.github.io/img/profilepicsmall.jpeg",
   heroBackground: "https://hanbrianlee.github.io/img/irobotimage.jpg",
   bioParagraphs: [
-    "Hi! I'm Brian Lee. I'm a Deep Learning & Autonomous Driving Engineer dedicated to advancing self-driving technologies, computer vision, and embodied robotics.",
-    "My expertise spans end-to-end perception, neural mapping, real-time localization, and multi-sensor fusion for safety-critical autonomous systems. I have engineered production deep learning models for General Motors Ultra Cruise as well as high-speed autonomous racing systems."
+    "Hi! I'm Brian Lee. I'm a Deep Learning Engineer based in Mountain View, California, dedicated to advancing autonomous driving, computer vision, and foundation perception models.",
+    "My expertise spans end-to-end perception, neural mapping, real-time localization, and multi-sensor fusion for safety-critical autonomous systems. I have engineered machine learning architectures across Waymo and General Motors (Ultra Cruise) as well as competitive high-speed autonomous robotic platforms."
   ]
 };
 
 export const experiences: ExperienceItem[] = [
   {
+    id: "waymo",
+    role: "Senior Software Engineer / Deep Learning Engineer",
+    company: "Waymo",
+    team: "Autonomous Driving / Perception & Machine Learning",
+    period: "Recent - Present",
+    location: "Mountain View, CA",
+    focus: "Autonomous Driving Perception, Foundation Models & 3D Understanding",
+    bulletPoints: [
+      "Developed and scaled deep learning models for autonomous vehicle perception, 3D scene understanding, and robust state estimation.",
+      "Engineered high-accuracy detection, tracking, and prediction pipelines leveraging multi-modal sensor suites (LiDAR, camera, radar).",
+      "Optimized large-scale deep neural networks for safety-critical real-time inference on custom onboard compute hardware.",
+      "Designed data-driven evaluation benchmarks, active learning loops, and simulation validation frameworks to continuously elevate system safety."
+    ],
+    technologies: ["PyTorch", "TensorFlow", "CUDA", "3D Computer Vision", "Point Cloud Perception", "Multi-Sensor Fusion", "C++", "Python", "Large-Scale ML Systems"]
+  },
+  {
     id: "gm-ultracruise",
     role: "Senior Deep Learning Engineer",
     company: "General Motors",
     team: "Ultra Cruise / Autonomous Driving Division",
-    period: "Recent - Present",
+    period: "Past",
     location: "Markham, ON / Detroit, MI",
     focus: "Autonomous Driving Perception, Neural Mapping & Localization",
     bulletPoints: [
